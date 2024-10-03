@@ -1,0 +1,156 @@
+.header {
+    color: white;
+    font-size: 0.7em;
+    padding: 0.2rem;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap");
+
+body {
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+}
+
+.title {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#pagination_data {
+    /* width: 100%; */
+    margin: 0 auto;
+    /* margin: 0 0.5rem 0 0.5rem; */
+}
+
+.header table tr th {
+    /* border: 1px solid #eeeeee; */
+    font-size: 15px;
+    text-align: left;
+}
+
+.header .table {
+    /* border: 1px solid #eeeeee; */
+    font-size: 18px;
+    text-align: left;
+}
+
+.table tr th {
+    font-size: 18px;
+    padding: 12px;
+    border: 1px solid #eeeeee;
+    text-align: left;
+    background-color: rgba(217, 221, 146, 0.2);
+}
+
+.table tr td {
+    border: 1px solid #eeeeee;
+    text-align: left;
+}
+#cartGrid_wrapper {
+    width: 100%;
+}
+.sorting,
+.sorting_asc,
+.sorting_desc {
+    /* background-color: blue !important; */
+    /* width: 10px !important; */
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+
+    /* padding: 0 !important; */
+}
+
+#search1,
+#search2,
+#search3,
+#search4,
+#search5,
+#search6,
+#search7,
+#search8,
+#search9,
+#search10,
+#search11,
+#search12,
+#search13 {
+    width: 100%;
+    margin: 0 auto;
+    /* margin: 0 0.5rem 0 0.5rem; */
+}
+
+.correcte {
+    color: rgba(255, 106, 0, 0.5);
+}
+
+.vide {
+    color: rgba(255, 0, 0, 0.54);
+}
+.sup {
+    color: rgba(247, 227, 68, 0.5);
+}
+.today {
+    /* color: rgba(0, 255, 0, 0.5); */
+    color: rgba(253, 160, 93, 0.5);
+}
+.calc {
+    color: rgba(255, 0, 208, 0.5);
+}
+
+.tva {
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 150px;
+    overflow: hidden;
+}
+.roy {
+    margin-bottom: 10px;
+    width: 65px;
+    height: 65px;
+    overflow: hidden;
+}
+.textR {
+    text-align: center;
+}
+/* rgba(255, 106, 0, 0.5) */
+/* #ff7171 */
+
+/* #search1,
+#search7 {
+    width: 5%;
+}
+
+#search2,
+#search12,
+#search13 {
+    width: 9%;
+}
+#search3,
+#search8 {
+    width: 12%;
+}
+#search4,
+#search5,
+#search6 {
+    width: 6%;
+}
+#search8,
+#search10,
+#search11 {
+    width: 7%;
+} */
