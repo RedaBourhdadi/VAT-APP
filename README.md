@@ -28,10 +28,3 @@
 -   Supper Admin: reda@reda.dev/123@123@1234
 
 Once everything is installed, you are ready to start.
-
-## Vue 3 + bootstrap 5 + Bootstrap Icons:
-
-redareda@reda.dev/0ybKW@ft0D4Ehzqs
-
-end : test : redareda@reda.dev/123@123@1234 done
-Supper Admin: reda@reda.dev/0ybKW@ft0D4Ehzqs done
